@@ -5,9 +5,9 @@ Contextualização - Correção Automática de Redações
 
 Em Processamento de Língua Natural (PLN), uma solução completa de Correção Automática de Redação deve contemplar pelo menos três etapas básicas:
 
-1.            A detecção de desvios no texto;
-2.            A atribuição da nota, seja ela global ou por critério de avaliação; e
-3.            A elaboração de um feedback para o aluno.
+1. A detecção de desvios no texto;
+2. A atribuição da nota, seja ela global ou por critério de avaliação; e
+3. A elaboração de um feedback para o aluno.
 
 O Exame Nacional do Ensino Médio (Enem) é uma prova do Governo Federal que avalia o desempenho escolar dos estudantes ao término do Ensino Médio. Essa prova avalia várias áreas do conhecimento e, também, a produção de uma redação. Com mais de 3,9 milhões de inscritos em 2023, o Enem pode ser considerado o principal modelo de correção de redação no Brasil.
 No modelo de correção do Enem, o aluno deve produzir um texto do tipo dissertativo-argumentativo para um tema específico. A avaliação é dividida em 5 competências, cada uma no intervalo de notas de 0 a 200: (i) Língua Portuguesa, (ii) Tema e Gênero, (iii) Coerência, (iv) Coesão e (v) Proposta de Intervenção (sugestão de ação ou medida interventiva para solucionar ou minimizar o problema associado ao tema proposto). A soma direta das notas das competências leva à nota total, que fica no intervalo de 0 a 1000.
@@ -15,10 +15,10 @@ No modelo de correção do Enem, o aluno deve produzir um texto do tipo disserta
 Escopo e entrega
 Para o desafio, você deve:
 
-1.            Ler e entender a contextualização. Sinta-se à vontade para pesquisar mais sobre o assunto também;
-2.            Trabalhar na análise descritiva do conjunto público de redações Essay-br;
-3.            Fazer anotações de suas suposições e dúvidas quanto às etapas básicas da correção automática de redações;
-4.            Esboçar um plano de solução: por onde você começaria? Qual a stack tecnológica? Técnicas, features, algoritmos etc.
+1. Ler e entender a contextualização. Sinta-se à vontade para pesquisar mais sobre o assunto também;
+2. Trabalhar na análise descritiva do conjunto público de redações Essay-br;
+3. Fazer anotações de suas suposições e dúvidas quanto às etapas básicas da correção automática de redações;
+4. Esboçar um plano de solução: por onde você começaria? Qual a stack tecnológica? Técnicas, features, algoritmos etc.
 
 Caso você queira tentar modelar o plano de solução, total ou parcialmente, você pode fazer isso. No entanto, o foco de avaliação será, principalmente, para os itens enumerados acima. 
 Você deverá compartilhar conosco (repositório Git) os códigos produzidos e registro de esboço do plano de solução. Caso você tenha elaborado o esboço em papel, pode enviar uma foto anexa ao e-mail com indicação do repositório Git. 
