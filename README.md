@@ -1,5 +1,17 @@
 # Sommos_challange
 
+Conteúdo do Repositório
+
+Além da descrição do desafio, este texto inclui os seguintes arquivos:
+
+Documentação do Desafio: Um arquivo Word que contém o plano de solução do desafio, incluindo perguntas e suposições.
+Análise Descritiva: Um arquivo Jupyter Notebook (.ipynb) que apresenta uma análise descritiva do conjunto público de redações Essay-br.
+
+Os textos da documentação podem ser encontrados tanto neste arquivo README quanto no arquivo word em anexo.
+
+
+## Descrição do desafio
+
 Neste desafio você deverá apresentar o domínio de um case e o conjunto de dados relacionado. 
 Contextualização - Correção Automática de Redações
 
@@ -23,6 +35,8 @@ Para o desafio, você deve:
 Caso você queira tentar modelar o plano de solução, total ou parcialmente, você pode fazer isso. No entanto, o foco de avaliação será, principalmente, para os itens enumerados acima. 
 Você deverá compartilhar conosco (repositório Git) os códigos produzidos e registro de esboço do plano de solução. Caso você tenha elaborado o esboço em papel, pode enviar uma foto anexa ao e-mail com indicação do repositório Git. 
 ______________________________________________________________________________________________________________________
+
+## Perguntas, suposições e plano de ação
 
 **1.	Principais dúvidas e questionamentos:**
 
