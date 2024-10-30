@@ -40,14 +40,14 @@ ________________________________________________________________________________
 
 **1.	Principais dúvidas e questionamentos:**
 
-•	Quais bibliotecas utilizar? Utilizar modelos pré treinados?
-•	Fazer um modelo capaz de verificar redações apenas do Enem ou generalizar para outros vestibulares/provas?
-•	Um modelo pode funcionar bem para diferentes temas e gêneros de redação ou precisa ser ajustado por tipo?
-•	Modelo será capaz de se adaptar ou ideal fazer um modelo para cada tipo de texto e prova?
-•	Tokenização, utilizar lematização ou stemming?
-•	Como lidar com erros gramaticais específicos do português, modelos em outras línguas ajudariam?
-•	Quais tipos de métricas de avaliação de desempenho são mais importantes para modelos de correção de redação?
-•	Como dar feedback para o aluno sem simplesmente apontar erros? Algum algoritmo pode sugerir melhorias no texto?
+•	Quais bibliotecas utilizar? Utilizar modelos pré treinados?<br>
+•	Fazer um modelo capaz de verificar redações apenas do Enem ou generalizar para outros vestibulares/provas?<br>
+•	Um modelo pode funcionar bem para diferentes temas e gêneros de redação ou precisa ser ajustado por tipo?<br>
+•	Modelo será capaz de se adaptar ou ideal fazer um modelo para cada tipo de texto e prova?<br>
+•	Tokenização, utilizar lematização ou stemming?<br>
+•	Como lidar com erros gramaticais específicos do português, modelos em outras línguas ajudariam?<br>
+•	Quais tipos de métricas de avaliação de desempenho são mais importantes para modelos de correção de redação?<br>
+•	Como dar feedback para o aluno sem simplesmente apontar erros? Algum algoritmo pode sugerir melhorias no texto?<br>
 
 **2.	Plano de solução**
 
